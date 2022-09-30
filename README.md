@@ -1,4 +1,1 @@
-# geradorNumerico
-# geradorNumerico
-# geradorNumerico
-# geradorNumerico
+
